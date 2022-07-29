@@ -1,0 +1,2 @@
+# Java-ObserverPattern-and-StrategyPattern
+ 
